@@ -1,37 +1,10 @@
-## Welcome to Richie Blog
+## 3 函数
+- [3.1 基本概念](3.1Basic_Concept.md)
+- [3.2 深入函数](3.2Advanced_Function.md)
+- [3.3 装饰器](3.3Warpper.md)
+- [3.4 生成器](3.4Genarator.md)
+- [3.5 递归](3.5Recursive.md)
+- [3.6 内置函数](3.6Built-in_Function.md)
 
-You can use the [editor on GitHub](https://github.com/StrongRoy/StrongRoy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Python
-## Python基础学习
-## Python进阶
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StrongRoy/StrongRoy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
